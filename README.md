@@ -1,4 +1,4 @@
-# Movie Site - Sinema Veritabanı
+# Movie Site 
 
 **Movie Site** projesine hoş geldiniz! Bu proje, kullanıcıların filmleri keşfedeceği, oyuncu detaylarını göreceği ve film afişleri ve oyuncu bilgilerini gezebileceği basit ve dinamik bir uygulamadır. Veriler, yerel bir json dosyasından  alınmakta ve kullanıcı dostu bir arayüzle sunulmaktadır.
 
