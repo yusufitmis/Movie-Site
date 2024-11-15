@@ -1,0 +1,287 @@
+{
+  "movies": [
+    {
+      "name": "Deadpool & Wolverine",
+      "slug": "deadpoolwolverine",
+      "image": "deadpoolwolverine.jpg",
+      "id": 1,
+      "description": "Wade Wilson, Deadpool olarak tanınan cesur ve esprili paralı asker kimliğinden uzaklaşıp normal bir yaşam sürmeye çalışırken, beklenmedik bir tehdit kapısını çalar. Hem geçmişteki düşmanları hem de yeni düşmanlar, Deadpool ve Wolverine’i iş birliği yapmaya zorlar. İkili, hem kendi içsel çatışmalarıyla hem de dış dünyadan gelen büyük tehlikelerle yüzleşirken, kendilerini bir kez daha kahramanlık yolunda bulurlar. Ancak bu sefer her şeyin bedeli çok daha ağır olacaktır.",
+      "time": "2h 8m",
+      "year": "2024",
+      "score": "7.7",
+      "cast": [
+        { "name": "Ryan Reynolds", "slug": "ryan", "image": "ryan.jpg", "character": "Deadpool", "birthdate": "Ekim 23, 1976", "height": "1.88 m", "bio": "Ryan Rodney Reynolds, 23 Ekim 1976'da Vancouver'da doğdu. Başarılı bir komedi oyuncusu olarak tanınan Reynolds, aynı zamanda yapımcı ve işadamıdır. Deadpool rolüyle dünya çapında büyük bir üne kavuşmuştur. Kariyerinin başlarında, küçük televizyon dizileriyle adını duyurmuş, Van Wilder, The Proposal ve Definitely, Maybe gibi filmlerle dikkatleri üzerine çekmiştir. Reynolds, aynı zamanda sosyal medya üzerinden yaptığı esprili paylaşımlar ve yardım kuruluşlarındaki çalışmalarıyla da tanınır." },
+        { "name": "Hugh Jackman", "slug": "hughjackman", "image": "hughjackman.jpg", "character": "Wolverine", "birthdate": "Ekim 12, 1968", "height": "1.88m", "bio": "Hugh Michael Jackman, 12 Ekim 1968'de Avustralya'da doğmuştur. Broadway'den sinemaya geçiş yapan Jackman, özellikle X-Men serisinde canlandırdığı Wolverine karakteriyle tanınır. Jackman, yalnızca bir aktör değil, aynı zamanda bir şarkıcı ve prodüktördür. Kariyerinin erken dönemlerinde, televizyon dizileri ve tiyatro sahnelerinde rol almış, The Prestige ve Les Misérables gibi ödüllü filmlerle de büyük takdir toplamıştır. Jackman, aynı zamanda hayır işlerine olan bağlılığı ve ailesine duyduğu sevgi ile tanınır." },
+        { "name": "Morena Baccarin", "slug": "morenabaccarin", "image": "morenabaccarin.jpg", "character": "Vanessa Carlysle", "birthdate": "Eylül 2, 1979", "height": "1.70 m", "bio": "Morena Baccarin, 2 Eylül 1979’da Brezilya’da doğmuş, ABD'ye ailesiyle taşındıktan sonra oyunculuk kariyerine adım atmıştır. Firefly dizisindeki rolüyle ün kazanan Baccarin, aynı zamanda Homeland ve Gotham gibi popüler dizilerde de önemli roller üstlenmiştir. Geniş bir uluslararası takipçi kitlesi bulunan Baccarin, drama ve aksiyon türlerindeki başarısını komedi alanında da kanıtlamıştır. Ayrıca, sosyal ve çevresel konularda aktif olarak çalışmakta ve Hollywood’un önde gelen kadın figürlerinden biridir." },
+        { "name": "T.J. Miller", "slug": "tjmiller", "image": "tjmiller.jpg", "character": "Weasel", "birthdate": "Haziran 4, 1981", "height": "1.83 m", "bio": "T.J. Miller, 4 Haziran 1981'de Denver, Colorado'da doğmuştur. Amerikalı komedyen, aktör ve yapımcı olan Miller, özellikle Deadpool filmindeki Weasel karakteriyle tanınmıştır. Hem televizyon hem de sinemada çeşitli projelerde yer almış, Silicon Valley dizisinde canlandırdığı Erlich Bachman rolüyle büyük beğeni kazanmıştır. Kariyerinde birçok komedi filminde yer almış, enerjik ve absürd karakterlerle tanınmıştır. Miller, aynı zamanda seslendirme sanatçısı olarak da tanınır ve bir podcast sunucusudur." }
+      ],
+      "comments": [
+       
+        { "title": "Efsane aksiyon!", "description": "Deadpool ve Wolverine'in birlikte dövüşmesi muazzam bir aksiyon!" },
+        { "title": "Komik ve heyecan verici!", "description": "Filmin esprili havası ve aksiyonu mükemmel şekilde birleşmiş!" }
+      ]
+    },
+    {
+      "name": "Avengers: Endgame",
+      "slug": "avengersendgame",
+      "image": "avengersendgame.jpg",
+      "id": 2,
+      "description": "Avengers, Thanos’u yenmek için bir araya geliyor. Bu destansı hikaye, tüm evreni kurtarma çabalarını anlatıyor. Thanos’un sonsuzluk taşlarıyla evreni yarı yarıya yok etmesinin ardından, hayatta kalan Avengers üyeleri, kaybettikleri sevdiklerini geri getirmek için bir zaman yolculuğuna çıkar. Bu mücadelede sadece güç değil, aynı zamanda cesaret, fedakarlık ve birliğin de sınavı verilecektir. Zorlu bir savaşın sonunda, evrenin geleceği belirlenecektir.",
+      "time": "3h 2m",
+      "year": "2019",
+      "score": "8.4",
+      "cast": [
+        { "name": "Robert Downey Jr.", "slug": "robertdowneyjr", "image": "robertdowneyjr.jpg", "character": "Iron Man", "birthdate": "Nisan 4, 1965", "height": "1.74 m", "bio": "Robert John Downey Jr., 4 Nisan 1965’te New York City’de doğmuştur. Hollywood’un en tanınmış ve başarılı aktörlerinden biri olan Downey Jr., Iron Man rolüyle dünya çapında ün kazanmıştır. Kariyerine çocuk yaşta, babasının yönetmenlik yaptığı filmlerde küçük roller alarak başlayan Downey Jr., uzun yıllar boyunca alkol ve uyuşturucu bağımlılığı ile mücadele etmiş ve bu dönemdeki zorlukları aşarak büyük bir dönüşüm geçirmiştir. Bugün, yalnızca aktör değil, aynı zamanda film yapımcısı ve iş insanıdır. Tony Stark karakteriyle Marvel Evreni’ne önemli bir katkı yapmıştır." },
+        { "name": "Chris Evans", "slug": "chrisevans", "image": "chrisevans.jpg", "character": "Captain America", "birthdate": "Haziran 13, 1981", "height": "1.83m", "bio": "Christopher Robert Evans, 13 Haziran 1981'de Boston, Massachusetts’te doğmuştur. Evans, özellikle Marvel Sinematik Evreni'ndeki Captain America rolüyle tanınır. Çocukluğunda aktörlükle ilgilenmeye başlamış, 2000’lerin başında televizyon dizileri ve sinema filmlerinde yer almıştır. İlk büyük çıkışını, 2005 yapımı Fantastic Four filminde Human Torch olarak yapmıştır. Captain America rolüyle dünya çapında büyük bir üne kavuşan Evans, aynı zamanda prodüktörlük yapmaktadır ve çevre sorunlarına duyarlılığı ile de tanınır." },
+        { "name": "Scarlett Johansson", "slug": "scarlettjohansson", "image": "scarlettjohansson.jpg", "character": "Black Widow", "birthdate": "Kasım 22, 1984", "height": "1.60m", "bio": "Scarlett Ingrid Johansson, 22 Kasım 1984’te New York City’de doğmuştur. Hollywood’un en başarılı ve yüksek ücretli aktrislerinden biri olan Johansson, Marvel Sinematik Evreni'nde Black Widow karakterini canlandırarak büyük bir popülerlik kazanmıştır. Genç yaşta oyunculuk kariyerine başlayan Johansson, Lost in Translation ve Vicky Cristina Barcelona gibi filmlerle büyük beğeni kazanmıştır. Ayrıca şarkıcılık ve tiyatro sahnesinde de başarılı bir kariyere sahiptir. Johansson, toplumsal cinsiyet eşitliği ve kadın hakları konusunda aktif bir savunucudur." },
+        { "name": "Mark Ruffalo", "slug": "markruffalo", "image": "markruffalo.jpg", "character": "Bruce Banner", "birthdate": "Kasım 22, 1967", "height": "1.73 m", "bio": "Mark Alan Ruffalo, 22 Kasım 1967’de Kenosha, Wisconsin’de doğmuştur. Hem sinemada hem de tiyatroda başarılı bir kariyere sahip olan Ruffalo, en çok Hulk karakteriyle tanınır. Sinemada ilk büyük çıkışını, 2000’li yılların başında dramatik rollerle yapmış ve The Kids Are All Right ile Oscar adaylığı kazanmıştır. Ayrıca, doğa ve çevre koruma konularında aktif bir savunucudur. Ruffalo, aynı zamanda bir yönetmen ve yapımcıdır ve birçok sosyal sorumluluk projesine katılmaktadır. Aktör olarak, çok yönlü performanslarıyla tanınır." }
+      ],
+      "comments": [
+        { "title": "Mükemmel bir son!", "description": "Marvel Evreni için epik bir son. Duygusal ve heyecan verici..." },
+        
+        { "title": "Duygusal anlar", "description": "Hem aksiyon hem duygusal derinlik açısından harika bir film." },
+        { "title": "Unutulmaz bir final!", "description": "Tüm seriyi mükemmel bir şekilde tamamladı. Gerçekten unutulmaz bir final." }
+      ]
+    },
+    {
+      "name": "Inception",
+      "slug": "inception",
+      "image": "inception.jpg",
+      "id": 3,
+      "description": "Dom Cobb, zihnin derinliklerine inerek rüyaları şekillendirebilen bir yeteneğe sahiptir. Fakat bu yetenek, onu bir suçlu olarak tanınmasına neden olmuş ve evini kaybetmesine yol açmıştır. Cobb, geçmişindeki hataları temizleyebilmek için son bir görev kabul eder. Bu görev, bir kişinin bilinçaltına rüya yoluyla fikir yerleştirmektir. Ancak rüyalarla gerçeklik arasındaki sınır gittikçe daha belirsiz hale gelir ve Cobb, kendi zihnindeki kayıplarla da yüzleşmek zorunda kalır. Zihnin en karanlık köşelerine yapılan bu yolculuk, ona hem büyük tehlikeler hem de önemli bir keşif sunacaktır.",
+      "time": "2h 28m",
+      "year": "2010",
+      "score": "8.8",
+      "cast": [
+        { "name": "Leonardo DiCaprio", "slug": "leonardodicaprio", "image": "leonardodicaprio.jpg", "character": "Dom Cobb", "birthdate": "Kasım 11, 1974", "height": "1.83 m", "bio": "Leonardo Wilhelm DiCaprio, 11 Kasım 1974'te Los Angeles, Kaliforniya'da doğmuştur. Genç yaşta oyunculuk kariyerine başlamış olan DiCaprio, 90’ların başında Titanic gibi dev bir yapımla dünya çapında tanınmıştır. Kariyerinde, birçok prestijli filmde önemli roller üstlenen DiCaprio, Martin Scorsese ile olan işbirlikleriyle de dikkat çekmiştir. The Revenant ile En İyi Aktör Oscar’ını kazanan DiCaprio, çevrecilik konusunda da büyük bir savunucudur. Hayvan hakları ve iklim değişikliği gibi konularda çalışmalar yapmaktadır." },
+        { "name": "Joseph Gordon-Levitt", "slug": "josephgordonlevitt", "image": "josephgordonlevitt.jpg", "character": "Arthur", "birthdate": "Şubat 17, 1981", "height": "1.82 m", "bio": "Joseph Leonard Gordon-Levitt, 17 Şubat 1981’de Los Angeles, Kaliforniya’da doğmuştur. Genç yaşta başladığı oyunculuk kariyerinde, 1990’ların başında televizyon dizileriyle tanınmış, ancak Hollywood’daki büyük çıkışını 2000’li yıllarda yapmıştır. Inception, Looper ve 500 Days of Summer gibi filmlerle önemli başarılar elde etmiştir. Aynı zamanda bir yapımcı ve senarist olan Gordon-Levitt, çevrimiçi platformlar üzerinden dijital projeler üretmektedir. İnsan hakları ve toplumsal cinsiyet eşitliği gibi alanlarda aktif çalışmalarda bulunmaktadır." },
+        { "name": "Ellen Page", "slug": "ellenpage", "image": "ellenpage.jpg", "character": "Ariadne", "birthdate": "Şubat 21, 1987", "height": "1.55 m", "bio": "Elliot Page, 21 Şubat 1987’de Halifax, Nova Scotia’da doğmuş bir Kanadalı aktördür. Kariyerine televizyon dizileriyle başlamış, Juno filmiyle geniş bir izleyici kitlesine ulaşmıştır. Inception ve The Umbrella Academy gibi projelerle büyük başarılar elde etmiştir. 2020 yılında cinsiyet kimliğini açıklamış ve toplumsal cinsiyet eşitliği konusunda cesur bir figür haline gelmiştir. Elliot, oyunculuk kariyerinin yanı sıra, LGBTQ+ topluluğunun hakları için aktif bir savunucudur." }
+      ],
+      "comments": [
+        { "title": "Rüya gibi!", "description": "Christopher Nolan'ın başyapıtı. Aklımı aldı!" },
+        { "title": "Zihin açıcı!", "description": "Gerçeklik ve rüya arasındaki sınırları gerçekten mükemmel bir şekilde araştırıyor." },
+        { "title": "Mükemmel anlatım", "description": "Filmdeki her şey özenle işlenmiş, çok katmanlı ve derin bir yapım." },
+        { "title": "Bir başyapıt!", "description": "Zihinsel olarak çok güçlü bir film. Her sahnesi sizi düşündürür." }
+      ]
+    },
+    {
+      "name": "The Dark Knight",
+      "slug": "thedarkknight",
+      "image": "thedarkknight.jpg",
+      "id": 4,
+      "description": "Gotham'ın karanlık sokaklarında suç hızla yayılmaktadır. Batman, şehirdeki düzeni sağlamak için sürekli mücadele verirken, Joker adlı yeni bir suçlu ortaya çıkar. Joker, hem Batman’in moral değerlerini hem de Gotham’ın dengesini tehdit etmeye başlar. Joker’in, Batman’e olan takıntısı, şehirdeki suç oranını artırmakla kalmaz, aynı zamanda toplumsal yapıyı da çökertmeye başlar. Joker, Batman’e sadece fiziksel bir tehdit değil, aynı zamanda zihinsel bir savaş açar. Gotham’ın ruhunu, adaletin ne olduğuna dair derin bir sorgulama başlatır. Batman, kendisini ve şehri korumak için sınırlarını zorlamak zorundadır.",
+      "time": "2h 32m",
+      "year": "2008",
+      "score": "9.0",
+      "cast": [
+        { "name": "Christian Bale", "slug": "christianbale", "image": "christianbale.jpg", "character": "Batman", "birthdate": "Ocak 30, 1974", "height": "1.83 m", "bio": "Christian Charles Philip Bale, 30 Ocak 1974’te Haverfordwest, Pembrokeshire, Galler’de doğmuştur. Bale, genç yaşta başladığı kariyerinde, The Machinist ve American Psycho gibi rollerle dikkat çekmiştir. Batman rolüyle dünya çapında tanınan Bale, fiziksel dönüşümleri ve metod oyunculuğuyla tanınır. Aynı zamanda hayır işleriyle ilgilenmiş, çevre bilincini artırmaya yönelik projelere destek vermektedir. Bale, çok yönlü bir aktör olarak kariyerine devam etmekte, farklı türlerdeki filmlerde başarılı performanslar sergilemektedir." },
+        { "name": "Heath Ledger", "slug": "heathledger", "image": "heathledger.jpg", "character": "Joker", "birthdate": "Nisan 4, 1979", "height": "1.87 m", "bio": "Heath Ledger, 4 Nisan 1979’da Perth, Avustralya’da doğmuş ve 2008 yılında trajik bir şekilde hayatını kaybetmiştir. Ledger, özellikle Joker rolüyle hafızalara kazınmıştır. 10 Things I Hate About You ve Brokeback Mountain gibi filmlerdeki performanslarıyla övgü toplamış ve birçok ödül kazanmıştır. Joker rolüyle En İyi Yardımcı Erkek Oyuncu Oscar’ını kazanan Ledger, sinemada derinlikli karakterler yaratma yeteneğiyle tanınmıştır. Ölümünden sonra sinema dünyasında bir efsane olarak anılmaktadır." },
+        { "name": "Aaron Eckhart", "slug": "aaroneckhart", "image": "aaroneckhart.jpg", "character": "Harvey Dent", "birthdate": "Mart 12, 1968", "height": "1.87 m", "bio": "Aaron Edward Eckhart, 12 Mart 1968’de Cupertino, California’da doğmuştur. İlk büyük çıkışını Erin Brockovich filmiyle yapmış, ardından The Dark Knight’daki Harvey Dent rolüyle dünya çapında tanınmıştır. Karakter oyuncusu olarak geniş bir yelpazeye sahip olan Eckhart, aksiyon ve drama türlerindeki projelerde başarılı bir kariyer geçirmiştir. Aynı zamanda çevre konusunda aktif bir destekçidir ve birçok yardım kuruluşuna katkıda bulunmaktadır. Ekstra sıradışılığı ve içsel çatışmaları derinlemesine tasvir edebilme yeteneğiyle dikkat çeker." }
+      ],
+      "comments": [
+        
+        { "title": "Mükemmel karakter derinliği", "description": "Joker'in motivasyonu ve Batman'in içsel savaşı çok iyi işlenmiş." },
+        { "title": "Gerçekten unutulmaz!", "description": "Heath Ledger'in Joker'ı her zaman hatırlanacak bir performans." },
+        { "title": "Gotham'ın karanlık yüzü", "description": "Film, Gotham'ı ve karakterlerin karanlık yanlarını kusursuzca keşfediyor." }
+      ]
+    },
+    {
+      "name": "Interstellar",
+      "slug": "interstellar",
+      "image": "interstellar.jpg",
+      "id": 5,
+      "description": "Küresel bir kıtlık sırasında insanlığı kurtarmak için bir ekip uzaya gider. Dünya, kıtlık ve iklim değişikliği nedeniyle yok olma tehlikesiyle karşı karşıya kalırken, Cooper ve ekibi, yeni bir gezegen arayışına çıkarlar. Uzayda, zamanın ve mekanın farklı işlediği bilinç dışı bir evrende, insanlık için umut ışığı ararlar. Ancak bu görev, yalnızca gezegenin kurtuluşunu değil, aynı zamanda kişisel fedakarlıkları ve aile bağlarını da sınar. Cooper, kızını geride bırakıp bir keşif için uzaya gitmek zorunda kalırken, bilim ve duygular arasında bir denge kurmak zorunda kalacaktır.",
+      "time": "2h 49m",
+      "year": "2014",
+      "score": "8.6",
+      "cast": [
+        { "name": "Matthew McConaughey", "slug": "matthewmcconaughey", "image": "matthewmcconaughey.jpg", "character": "Cooper", "birthdate": "Kasım 4, 1969", "height": "1.82 m", "bio": "Matthew David McConaughey, 4 Kasım 1969’da Uvalde, Texas’ta doğmuştur. McConaughey, 90’lar ve 2000’lerin başında romantik komedilerle tanınmış, ardından 2010'larda daha derin ve dramatik rollerle dikkat çekmiştir. True Detective dizisi ve Dallas Buyers Club filmiyle büyük beğeni kazanmış ve En İyi Erkek Oyuncu Oscar’ını almıştır. Kendisi aynı zamanda bir yazar ve motivasyon konuşmalarına katılmaktadır. McConaughey, yaşam ve kariyer felsefesiyle ilham verici bir figür olarak tanınır." },
+        { "name": "Anne Hathaway", "slug": "annehathaway", "image": "anhat.jpg", "character": "Brand", "birthdate": "Kasım 12, 1982", "height": "1.73 m", "bio": "Anne Jacqueline Hathaway, 12 Kasım 1982’de Brooklyn, New York’ta doğmuştur. Hathaway, 2000'lerin başında The Princess Diaries filmiyle tanınmış, ardından Les Misérables ve The Devil Wears Prada gibi büyük yapımlarda önemli roller üstlenmiştir. Kariyerinde dramatik ve komedi türlerinde de başarılar elde etmiştir. Aynı zamanda kadın hakları ve toplumsal cinsiyet eşitliği gibi konularda duyarlıdır ve bu konuda birçok etkinlikte yer almaktadır. Hathaway, çok yönlü oyunculuğuyla geniş bir hayran kitlesine sahiptir." },
+        { "name": "Jessica Chastain", "slug": "jessicachastain", "image": "jessicachastain.jpg", "character": "Murph", "birthdate": "Mart 24, 1977", "height": "1.63 m", "bio": "Jessica Michelle Chastain, 24 Mart 1977’de Sacramento, California’da doğmuştur. Chastain, 2010’ların başında Hollywood’a giriş yapmış ve Zero Dark Thirty filmiyle büyük bir çıkış yakalamıştır. Performanslarıyla birçok ödül kazanmış olan Chastain, aynı zamanda yapımcı olarak da tanınmaktadır. İleri yaşta bir kariyerine başlamasına rağmen, hızla dikkatleri üzerine çekmeyi başarmıştır. Çeşitli insani yardımların ve çevresel projelerin destekçisi olup, kadın hakları ve eşitliği konusunda da aktif bir savunucudur." }
+      ],
+      "comments": [
+        { "title": "Beyin yakan film!", "description": "Harika bilim kurgu ve duygusal sahneler." },
+        { "title": "Çığır açan bir film", "description": "Bilim kurgu ve duygusal ögeleri harika bir şekilde harmanlıyor." }
+        
+      ]
+    },
+    {
+      "name": "Joker",
+      "slug": "joker",
+      "image": "joker.jpg",
+      "id": 6,
+      "description": "Arthur Fleck, toplumun dışladığı bir komedyen, Joker’e dönüşüyor. Toplumun en alt kademelerinde bir yaşam süren Arthur, sürekli olarak dışlanır ve psikolojik baskı altında kalır. Bir gün, şiddetin eşiğindeki toplumsal yapıyı daha fazla kaldıramaz ve bir çöküş yaşar. Joker olarak tanınan bu figür, şehri ve toplumu sarsan bir isyanın sembolü haline gelir. Fakat bu dönüşüm, yalnızca şiddetle değil, aynı zamanda duygusal bir çöküşle de tamamlanır. Arthur, kendisini ve çevresini sorgulayarak, bir yandan karmik bir yolculuğa çıkar, diğer yandan da şiddet dolu bir kimlik kazanır.",
+      "time": "2h 2m",
+      "year": "2019",
+      "score": "8.4",
+      "cast": [
+        { "name": "Joaquin Phoenix", "slug": "joaquinphoenix", "image": "joaquinphoenix.jpg", "character": "Joker", "birthdate": "Ekim 28, 1974", "height": "1.73 m", "bio": "Joaquin Rafael Phoenix, 28 Ekim 1974’te San Juan, Porto Riko’da doğmuştur. Phoenix, sinemada derinlikli ve karanlık karakterlerle tanınan bir aktördür. Gladiator, Walk the Line ve Joker gibi filmlerle büyük övgü almış ve En İyi Erkek Oyuncu Oscar’ını kazanmıştır. Sinema kariyerine 8 yaşında başlayan Phoenix, genç yaşlarda aldığı dramatik rollerle büyük bir çıkış yapmıştır. Ayrıca çevre ve hayvan hakları konusunda güçlü bir savunucudur. İleri yaşlarda da sinemaya olan tutkusunu devam ettirmekte ve kariyerinde cesur projelere imza atmaktadır." },
+        { "name": "Robert De Niro", "slug": "robertdeniro", "image": "robertdeniro.jpg", "character": "Murray Franklin", "birthdate": "Ağustos 17, 1943", "height": "1.77 m", "bio": "Robert Anthony De Niro, 17 Ağustos 1943’te New York City’de doğmuştur. De Niro, sinemanın en saygın ve tanınmış aktörlerinden biridir. Taxi Driver, The Godfather ve Raging Bull gibi unutulmaz yapımlarda olağanüstü performanslar sergileyerek, sinemanın yaşayan efsanelerinden biri olmuştur. Ayrıca yönetmenlik ve yapımcılık gibi alanlarda da başarılı bir kariyere sahiptir. De Niro, toplumsal sorunlarla ilgili çeşitli yardım projelerinde yer almakta ve sinemaya olan bağlılığını sosyal sorumluluk projeleriyle pekiştirmektedir." }
+      ],
+      "comments": [
+        { "title": "Etkileyici!", "description": "Derin ve düşündürücü bir film." },
+        { "title": "Joaquin Phoenix mükemmel!", "description": "Phoenix'in Joker performansı bir efsane!" },
+        { "title": "Sosyal eleştirinin başyapıtı", "description": "Film, toplumun dışladığı insanları gerçekten harika bir şekilde anlatıyor." },
+        { "title": "İzlemek zor ama anlamlı", "description": "Joker'in yükselişi gerçekten unutulmaz." }
+      ]
+    },
+    {
+      "name": "Parasite",
+      "slug": "parasite",
+      "image": "parasite.jpg",
+      "id": 7,
+      "description": "Zengin bir ailenin yanında çalışan fakir bir ailenin hikayesi. Kim ailesi, hayatını geçindirebilmek için zorlu bir mücadele içindedir. Bir gün, oğulları Ki-woo, zengin Park ailesinin evinde İngilizce öğretmeni olarak işe başlar. Ardından, ailenin diğer üyeleri de farklı pozisyonlarda çalışmak üzere Park ailesinin evine sızar. Ancak işler, beklenmedik bir şekilde kontrolden çıkar ve iki aile arasındaki denge bir anda altüst olur. Sosyal sınıf farklarının keskin bir şekilde vurgulandığı bu film, düzenin bozulmasının ve gizli kalmış sırların nasıl ortaya çıktığının etkileyici bir yansımasıdır.",
+      "time": "2h 12m",
+      "year": "2019",
+      "score": "8.6",
+      "cast": [
+        { "name": "Song Kang-ho", "slug": "songkangho", "image": "songkangho.jpg", "character": "Kim Ki-taek", "birthdate": "Ocak 17, 1967", "height": "1.78 m", "bio": "Song Kang-ho, 17 Ocak 1967’de Güney Kore’nin Gimhae şehrinde doğmuştur. Güney Kore'nin en saygın ve popüler aktörlerinden biri olan Song, Parasite ve Snowpiercer gibi filmlerdeki olağanüstü performanslarıyla tanınır. 1990'ların başından itibaren oyunculuk kariyerine hızla yön vermiş, birçok ödül kazanmış ve Kore sinemasının uluslararası alanda tanınmasında önemli bir rol oynamıştır. Song, dramatik ve aksiyon türlerinde geniş bir yelpazede etkileyici performanslar sergileyen, derinlikli bir oyuncudur." },
+        { "name": "Choi Woo-shik", "slug": "choowooshik", "image": "choowooshik.jpg", "character": "Kim Ki-woo", "birthdate": "Mart 26, 1990", "height": "1.80 m", "bio": "Choi Woo-shik, 26 Mart 1990’da Güney Kore’nin Seoul şehrinde doğmuştur. Choi, Kore’nin en yetenekli genç oyuncularından biri olarak tanınır. Parasite filmindeki rolüyle dünya çapında büyük bir üne kavuşmuş, aynı zamanda Okja ve Train to Busan gibi önemli projelerde de yer almıştır. 2010’ların başında televizyon dizilerinde de yer alan Choi, hızla büyük bir popülerlik elde etmiştir. Çeşitli dramalar ve aksiyon filmleriyle dikkatleri üzerine çekmiştir ve sinemada her türde başarılı performanslar sergileyebilen bir oyuncudur." }
+      ],
+      "comments": [
+        { "title": "Çarpıcı!", "description": "İzleyiciyi şok eden bir başyapıt." },
+        { "title": "Toplumsal eleştiri", "description": "Zengin ve fakir arasındaki farkları çok güçlü bir şekilde ele alıyor." },
+        { "title": "Şok edici bir son!", "description": "Filmin sonu tamamen beklenmedik bir şekilde son buluyor." },
+        { "title": "Her sahneyle daha iyi!", "description": "Her geçen dakika izlemeye daha fazla devam etmek istiyorsunuz." }
+      ]
+    },
+    {
+      "name": "Forrest Gump",
+      "slug": "forrestgump",
+      "image": "forrestgump.jpg",
+      "id": 8,
+      "description": "Düşük IQ’lu bir adamın inanılmaz hayat hikayesi. Forrest Gump, birçok tarihi olayın içine karışmış bir adamdır. Sade bir insan olan Forrest, hiç beklenmedik bir şekilde Amerika’nın en ünlü figürleriyle tanışır. Vietnam Savaşı'ndan, Amerikan futboluna kadar geniş bir yelpazede yer alan bu sıradışı yaşam, Forrest’in saf doğasının ve kararlılığının bir sonucudur. En büyük hayali, sevdiği kadını mutlu etmektir. Film, sevgi, sadakat ve insanın içinde taşıdığı potansiyeli keşfetmenin güçlü bir anlatımıdır.",
+      "time": "2h 22m",
+      "year": "1994",
+      "score": "8.8",
+      "cast": [
+        { "name": "Tom Hanks", "slug": "tomhanks", "image": "tomhanks.jpg", "character": "Forrest Gump", "birthdate": "Temmuz 9, 1956", "height": "1.83 m", "bio": "Tom Hanks, 9 Temmuz 1956’da California, ABD’de doğmuştur. Hollywood'un en sevilen ve en ödüllü oyuncularından biri olan Hanks, Forrest Gump, Cast Away, Saving Private Ryan gibi unutulmaz filmlerde başrol oynamıştır. Hanks, komedi, drama ve aksiyon gibi farklı türlerdeki performanslarıyla büyük takdir toplar. Akademi Ödülleri'nde iki kez En İyi Erkek Oyuncu ödülünü kazanmış olan Hanks, aynı zamanda bir yapımcı ve yönetmen olarak da kariyerinde önemli adımlar atmıştır. Ailesine olan düşkünlüğü ve toplumsal sorumluluk projelerine verdiği destekle de tanınır." },
+        { "name": "Robin Wright", "slug": "robinwright", "image": "robinwright.jpg", "character": "Jenny Curran", "birthdate": "Nisan 8, 1966", "height": "1.63 m", "bio": "Robin Wright, 8 Nisan 1966’da Dallas, Texas, ABD’de doğmuştur. Forrest Gump’ta Jenny Curran karakteriyle hafızalara kazınan Wright, Hollywood’un en saygın aktrislerinden biridir. Ayrıca, House of Cards dizisindeki Claire Underwood rolüyle büyük bir çıkış yapmıştır. Kendisinin aynı zamanda başarılı bir yönetmen ve yapımcı olduğunu da belirtmek gerekir. Sosyal sorumluluk projelerine katılımı ve kişisel yaşamındaki zarif tavırlarıyla dikkat çeker. Hollywood’da, kadın hakları ve eşitlik gibi konularda söz sahibi olan bir figürdür." }
+      ],
+      "comments": [
+        { "title": "Klasik!", "description": "Duygusal ve ilham verici bir hikaye." }
+        
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "slug": "thegodfather",
+      "image": "thegodfather.jpg",
+      "id": 9,
+      "description": "Bir İtalyan-Amerikan mafya ailesinin hikayesi. Don Vito Corleone, New York’taki en güçlü ve saygıdeğer mafya lideridir. Ancak, bir suikast sonucu ağır yaralanması, ailesinin liderliği için tehdit oluşturur. Oğlu Michael, başlangıçta babasının işlerine karışmak istemezken, ailesine yapılan saldırılar onu adaleti sağlamak için yavaşça suç dünyasının içine çeker. Aile içindeki ihanetler, sadakat ve güç mücadelesi giderek daha da derinleşir. Michael, babasının işlerini devralırken, ailesi ve kendi arasında zorlu bir seçim yapmak zorunda kalacaktır. Mafyanın karanlık dünyasına adım attıkça, kendi kimliğini ve ahlaki değerlerini kaybetmeye başlar.",
+      "time": "2h 55m",
+      "year": "1972",
+      "score": "9.2",
+      "cast": [
+        { "name": "Marlon Brando", "slug": "marlonbrando", "image": "marlonbrando.jpg", "character": "Vito Corleone", "birthdate": "Nisan 3, 1924", "height": "1.75 m", "bio": "Marlon Brando, 3 Nisan 1924’te Omaha, Nebraska, ABD’de doğmuştur. 20. yüzyılın en büyük sinema oyuncularından biri olarak kabul edilen Brando, The Godfather’daki Vito Corleone rolüyle dünya çapında ün kazanmıştır. Brando, oyunculuk kariyerinde hem dramatik hem de fiziksel olarak zorlayıcı roller üstlenmiştir. Onun çağdaşlarıyla karşılaştırıldığında, sinema tarihinde bir dönüm noktası olarak kabul edilir. Brando, aynı zamanda sinemada metot oyunculuğunun öncülerindendir. Kendisinin hayatı, sinemadan çok daha fazlasıdır; toplumsal sorunlarla ilgilenmiş ve aktivist kimliğiyle tanınmıştır." },
+        { "name": "Al Pacino", "slug": "alpacino", "image": "alpacino.jpg", "character": "Michael Corleone", "birthdate": "Nisan 25, 1940", "height": "1.70 m", "bio": "Al Pacino, 25 Nisan 1940’ta New York, ABD’de doğmuştur. Sinemanın en önemli ve en takdir edilen oyuncularından biri olan Pacino, The Godfather, Scarface ve Serpico gibi kült yapımlarda unutulmaz performanslar sergilemiştir. Kariyerine Broadway’de sahneye çıkarak başlamış ve film kariyerinde çeşitli karakterlerle büyük başarılar elde etmiştir. Pacino'nun oyunculuk tarzı, derinlikli ve çok katmanlı karakter analizleri ile bilinir. Hem en iyi drama hem de en iyi komedi ödüllerini kazanan nadir oyunculardan biridir. Pacino, son yıllarda da sinema ve televizyon projelerinde aktif olarak yer almıştır." }
+      ],
+      "comments": [
+        { "title": "Başyapıt!", "description": "Mafya filmlerinin zirvesi." },
+        { "title": "Her zaman hatırlanacak bir film", "description": "The Godfather, sinema tarihinin en büyük eserlerinden biri." },
+        { "title": "Aksiyon ve dram mükemmel", "description": "Aksiyon ve drama mükemmel bir denge kurulmuş." },
+        { "title": "Mükemmel yönetmenlik", "description": "Francis Ford Coppola'nın yönettiği bu film, tarih yazdı." }
+      ]
+    },
+    {
+      "name": "The Matrix",
+      "slug": "thematrix",
+      "image": "thematrix.jpg",
+      "id": 10,
+      "description": "Bir hacker, Matrix adında bir simülasyonun içinde olduğunu keşfeder. Neo, normal bir yazılımcı olarak hayatına devam ederken, gerçek dünyanın ötesindeki bir sanal evrende yaşadığını öğrenir. Morpheus ve ekibi, Neo’yu simülasyonu kırmak ve insanları özgür kılmak için eğitmeye başlar. Ancak bu yolculuk, Neo’nun kendi içsel sorgulamalarını ve insanlık adına yapması gereken fedakarlıkları da beraberinde getirir. Matrix’in ardındaki gerçekler, daha önce bilmediği bir dünyayı açığa çıkaracak ve gerçekliğin doğası hakkında derin sorular sorduracaktır. Neo’nun özgürlüğü, hem kendisinin hem de tüm insanlık için bir dönüm noktası olacaktır.",
+      "time": "2h 16m",
+      "year": "1999",
+      "score": "8.7",
+      "cast": [
+        { "name": "Keanu Reeves", "slug": "keanureeves", "image": "keanureeves.jpg", "character": "Neo", "birthdate": "Eylül 2, 1964", "height": "1.86 m", "bio": "Keanu Charles Reeves, 2 Eylül 1964’te Beyrut, Lübnan’da doğmuştur. Matrix serisinin başrol oyuncusu olarak tanınan Reeves, aynı zamanda John Wick serisiyle de büyük bir aksiyon yıldızı haline gelmiştir. Oyunculuk kariyerine 1980'lerde başlamış olsa da, asıl çıkışını 1999'daki The Matrix ile yapmıştır. Reeves, sahne dışında oldukça sade bir yaşam sürer ve hayranlarıyla daima samimi bir ilişki kurmaya özen gösterir. Her zaman alçakgönüllü ve yardımsever bir kişilik sergileyen Reeves, birçok hayır kurumuna destek olmaktadır. Özellikle yaşadığı zorlukları açıkça paylaştığı için, onu izleyiciler çok sevmiştir." },
+        { "name": "Laurence Fishburne", "slug": "laurencefishburne", "image": "laurencefishburne.jpg", "character": "Morpheus", "birthdate": "Temmuz 30, 1961", "height": "1.85 m", "bio": "Laurence Fishburne, 30 Temmuz 1961’de Augusta, Georgia, ABD’de doğmuştur. Hollywood'un en güçlü ve yetenekli aktörlerinden biri olan Fishburne, The Matrix serisindeki Morpheus rolüyle tanınmıştır. Hem drama hem de aksiyon türlerinde çok sayıda önemli yapımda yer alan Fishburne, aynı zamanda bir yapımcı, yönetmen ve senaristtir. Kariyerinde birçok ödül kazanmış ve özellikle sinemanın büyük yapımlarında önemli roller üstlenmiştir. Fishburne, aynı zamanda tiyatro sahnelerinde de aktif olarak çalışmış ve toplumsal sorunlar hakkında konuşmaktan çekinmemiştir. Sosyal adalet ve eşitlik konularındaki duruşuyla da dikkat çekmektedir." }
+      ],
+      "comments": [
+        { "title": "Efsane!", "description": "Bilim kurgu sinemasının dönüm noktası." },
+        { "title": "Görsel şölen", "description": "The Matrix, görsel ve hikaye açısından inanılmaz bir deneyim." }
+        
+      ]
+    },
+    {
+      "name": "Gladiator",
+      "slug": "gladiator",
+      "image": "gladiator.jpg",
+      "id": 11,
+      "description": "Maximus, Roma İmparatoru Marcus Aurelius'un güvenilir bir generalidir. Ancak, imparatorun oğlu Commodus'un hırsları sonucu ihanete uğrayarak ailesiyle birlikte öldürülür. Hayatta kalan Maximus, gladyatör olarak arenada savaşmaya başlar. Amacı intikam almak ve Roma'yı adaletle yeniden yönetebilmektir.",
+      "time": "2h 35m",
+      "year": "2000",
+      "score": "8.5",
+      "cast": [
+        {
+          "name": "Russell Crowe",
+          "slug": "russellcrowe",
+          "image": "russellcrowe.jpg",
+          "character": "Maximus",
+          "birthdate": "Nisan 7, 1964",
+          "height": "1.85 m",
+          "bio": "Russell Ira Crowe, 7 Nisan 1964’te Wellington, Yeni Zelanda’da doğmuştur. Gladyatör filmindeki performansıyla En İyi Erkek Oyuncu Oscar’ını kazanan Crowe, ayrıca A Beautiful Mind ve Master and Commander gibi önemli filmlerde de rol almıştır. Aksiyon, dram ve tarih türlerinde geniş bir kariyere sahiptir."
+        },
+        {
+          "name": "Joaquin Phoenix",
+          "slug": "joaquinphoenix",
+          "image": "joaquinphoenix.jpg",
+          "character": "Commodus",
+          "birthdate": "Ekim 28, 1974",
+          "height": "1.73 m",
+          "bio": "Joaquin Rafael Phoenix, 28 Ekim 1974’te San Juan, Porto Riko’da doğmuştur. Gladiator'daki Commodus rolüyle büyük beğeni toplayan Phoenix, Joker filmindeki performansıyla da En İyi Erkek Oyuncu Oscar’ını kazanmıştır. Zorlu ve derin karakterlerle tanınan Phoenix, kariyerinde birçok ödül kazanmıştır."
+        }
+      ],
+      "comments": [
+        {
+          "title": "Efsanevi bir dram",
+          "description": "Roma İmparatorluğu’nda intikam ve adaletin mücadelesi harika bir şekilde işlenmiş."
+        },
+        {
+          "title": "Aksiyon ve drama mükemmel harman",
+          "description": "Gladyatörlük temasını derin duygusal bağlarla birleştiren unutulmaz bir yapım."
+        },
+        { "title": "Mükemmel yönetmenlik", "description": "Francis Ford Coppola'nın yönettiği bu film, tarih yazdı." }
+      ]
+    },
+    {
+      "name": "Shutter Island",
+      "slug": "shutterisland",
+      "image": "shutterisland.jpg",
+      "id": 12,
+      "description": "1940'larda, U.S. Marshall Teddy Daniels ve ortağı Chuck Aule, bir akıl hastanesinde kaybolan bir hastayı araştırmak üzere Shutter Island'a gönderilir. Ancak, adada ilerledikçe, hastalar ve yetkililer arasında tuhaf olaylar yaşanır ve Teddy'nin zihni, onun peşinden gittiği gerçeklikten giderek daha fazla uzaklaşır.",
+      "time": "2h 18m",
+      "year": "2010",
+      "score": "8.2",
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "slug": "leonardodicaprio",
+          "image": "leonardodicaprio.jpg",
+          "character": "Teddy Daniels",
+          "birthdate": "Kasım 11, 1974",
+          "height": "1.83 m",
+          "bio": "Leonardo Wilhelm DiCaprio, 11 Kasım 1974’te Los Angeles, Kaliforniya’da doğmuştur. The Matrix gibi başyapıtlarla tanınan DiCaprio, Shutter Island'daki derin psikolojik performansı ile de dikkat çekmiştir. Oyunculuk kariyerinde birçok ödül kazanmış ve çevre duyarlılığıyla tanınan bir figürdür."
+        },
+        {
+          "name": "Mark Ruffalo",
+          "slug": "markruffalo",
+          "image": "markruffalo.jpg",
+          "character": "Chuck Aule",
+          "birthdate": "Kasım 22, 1967",
+          "height": "1.73 m",
+          "bio": "Mark Alan Ruffalo, 22 Kasım 1967’de Kenosha, Wisconsin’da doğmuştur. En çok Marvel Sinematik Evreni'nde Hulk karakteriyle tanınan Ruffalo, Shutter Island’daki performansıyla da övgüler almıştır. Dramatik rollerle tanınan oyuncu, kariyerinde birçok ödül kazanmıştır."
+        }
+      ],
+      "comments": [
+        {
+          "title": "Zihinsel bir labirent",
+          "description": "Şüphe, psikolojik gerilim ve akıl sağlığının sorgulandığı harika bir film."
+        },
+        {
+          "title": "Sonu şaşırtıcı!",
+          "description": "Büyüleyici bir gizem ve ters köşe bir son ile izleyeni etkileyen bir yapım."
+        }
+      ]
+    }
+  ]
+}
